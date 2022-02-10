@@ -1,0 +1,1 @@
+## This repo is meant for me to keep track of all Kata I achieved on CodeWars
