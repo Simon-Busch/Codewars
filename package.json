@@ -1,4 +1,6 @@
 {
+  "author": "simon busch",
+  "name": "codewars_practice",
   "devDependencies": {
     "typescript": "^4.5.5"
   }
